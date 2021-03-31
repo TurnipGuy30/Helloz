@@ -1,2 +1,2 @@
-# Hello-world
-Writing "Hello world!" in many code languages!
+<h1 align="center">Hello world!</h1>
+<h2 align="center">My goal is to write "Hello world!" in as many languages as possible!</h2>
