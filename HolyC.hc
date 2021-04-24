@@ -1,6 +1,4 @@
-// RIP Terry Davis
-
-U8 *str = "hello world";
+U8 *str = "Hello World!";
 
 U0 main() {
   print ("%s\n", str);
@@ -10,9 +8,4 @@ U0 main() {
 
 main();
 
-U0 terry() {
-  print("divine intellect\n");
-  print("talk to God in up to 64 cores\n");
-  print("probably the CIA did it or something\n");
-  main();
-}
+//I think that's how you do it...

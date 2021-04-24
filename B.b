@@ -1,5 +1,5 @@
 main()
 {
-  putstr("Hello world!*n");
+  putstr("Hello World!*n");
   return(0);
 }

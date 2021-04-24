@@ -1,8 +1,7 @@
-#include 
- 
+#include
+
 int main()
 {
-    std::cout << "Hello, world!
-";
+    std::cout << "Hello World!";
     return 0;
 }
