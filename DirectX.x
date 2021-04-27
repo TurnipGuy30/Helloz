@@ -1,2 +1,2 @@
-write(*,*) "Hello world!"
+write(*,*) "Hello World!"
 end

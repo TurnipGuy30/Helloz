@@ -1,1 +1,1 @@
-(princ "Hello, World!")
+(princ "Hello World!")

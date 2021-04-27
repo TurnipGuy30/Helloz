@@ -1,1 +1,1 @@
-$("body").append("Hello world!");
+$("body").append("Hello World!");

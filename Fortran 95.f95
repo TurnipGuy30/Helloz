@@ -1,3 +1,3 @@
 PROGRAM Hello
-WRITE (*,*) 'Hello, World!'
+WRITE (*,*) 'Hello World!'
 END PROGRAM Hello

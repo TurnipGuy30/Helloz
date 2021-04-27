@@ -2,6 +2,6 @@
 
 int main() {
     @autoreleasepool {
-        NSLog(@"Hello, World!");
+        NSLog(@"Hello World!");
     }
 }
