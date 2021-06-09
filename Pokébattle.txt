@@ -1,0 +1,138 @@
+Trainer 1: Alice
+ Togepi
+ Emolga
+ Talonflame
+ Rhyperior
+ Abra
+ Pikachu
+Trainer 2: Bob
+ Yveltal
+ Raichu
+ Oranguru
+ Nidoqueen
+ Incineroar
+ Avalugg
+‌
+Battle Start!
+Turn 0:
+ Alice: Rhyperior Go!
+ Bob: Avalugg Go!
+
+Turn 1:
+ Rhyperior uses Absorb!
+ Avalugg uses Absorb!
+
+Turn 2:
+ Rhyperior uses Absorb!
+ Avalugg uses Absorb!
+
+Turn 3:
+ Alice: That's enough! Go Pikachu!
+ Avalugg uses Splash!
+
+Turn 4:
+ Pikachu uses Absorb!
+ Bob: That's enough! Go Raichu!
+
+Turn 5:
+ Alice: That's enough! Go Rhyperior!
+ Raichu uses Absorb!
+
+Turn 6:
+ Rhyperior uses Splash!
+ Bob: That's enough! Go Avalugg!
+
+Turn 7:
+ Rhyperior uses Absorb!
+ Avalugg uses Absorb!
+
+Turn 8:
+ Alice uses Max Potion!
+ Avalugg uses Tackle! It's not very effective.
+
+Turn 9:
+ Rhyperior uses Flamethrower!
+ Avalugg uses Splash!
+
+Turn 10:
+ Rhyperior uses Swords Dance!
+ Avalugg uses Swords Dance!
+
+Turn 11:
+ Rhyperior uses Tackle! It's not very effective.
+ Bob uses Max Potion!
+
+Turn 12:
+ Rhyperior uses Skill Swap!
+ Avalugg uses Swords Dance!
+
+Turn 13:
+ Rhyperior uses Swords Dance!
+ Avalugg uses Tackle! It's not very effective.
+
+Turn 14:
+ Alice uses Hyper Potion!
+ Bob: That's enough! Go Raichu!
+
+Turn 15:
+ Rhyperior uses Swords Dance!
+ Bob uses Super Potion!
+
+Turn 16:
+ Alice: That's enough! Go Pikachu!
+ Raichu uses Tackle! It's not very effective.
+
+Turn 17:
+ Pikachu uses Swords Dance!
+ Raichu uses Swords Dance!
+
+Turn 18:
+ Alice: That's enough! Go Rhyperior!
+ Bob uses Potion!
+
+Turn 19:
+ Alice uses Max Potion!
+ Bob: That's enough! Go Avalugg!
+
+Turn 20:
+ Rhyperior uses Swords Dance!
+ Avalugg uses Flamethrower! It's super effective!
+
+Turn 21:
+ Rhyperior uses Swords Dance!
+ Avalugg uses Tackle! It's not very effective.
+
+Turn 22:
+ Alice uses Hyper Potion!
+ Avalugg uses Splash!
+
+Turn 23:
+ Rhyperior uses Swords Dance!
+ Avalugg uses Swords Dance!
+
+Turn 24:
+ Rhyperior uses Flamethrower! It's super effective!
+ Avalugg uses Swords Dance!
+
+Turn 25:
+ Alice: That's enough! Go Abra!
+ Bob: That's enough! Go Raichu!
+
+Turn 26:
+ Abra uses Splash!
+ Raichu uses Swords Dance!
+
+Turn 27:
+ Abra uses Splash!
+ Bob: That's enough! Go Yveltal!
+
+Turn 28:
+ Abra uses Absorb!
+ Yveltal uses Splash!
+
+Turn 29:
+ Abra uses Swords Dance!
+ Yveltal uses Splash!
+
+Battle End!
+Winner: Alice
