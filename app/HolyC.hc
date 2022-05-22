@@ -5,5 +5,3 @@ U0 main() {
 }
 
 main();
-
-//I think that's how you do it...
