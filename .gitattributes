@@ -1,1 +1,2 @@
 * text=auto linguist-detectable=true
+*.txt linguist-detectable=false
