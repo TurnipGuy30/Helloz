@@ -1,0 +1,43 @@
+sell
+	start
+	sell
+	start
+		prev prev
+		start
+			sell
+				start
+					buy buy buy
+				end
+				buy
+				start
+					prev prev prev
+				end
+			end
+		end
+		next next next
+		sell
+	end
+next
+buy
+brag
+buy buy buy
+brag
+next
+brag brag
+next
+brag
+prev prev prev prev
+buy
+brag
+prev
+sell
+brag
+next next next next next
+brag
+next
+brag
+prev prev
+brag
+prev
+buy
+brag
