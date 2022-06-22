@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
-	<h1><code>Helloz!</code></h1>
+	<h1><img src="github-metrics.svg"></h1>
 	<h3>You have stumbled into a deserted wasteland...</h3>
 	<h6>(...and I appreciate your company.)</h6>
 	<hr>
