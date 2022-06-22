@@ -1,0 +1,19 @@
+name: Main Workflow
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+  schedule:
+  - cron: '* * * * *'
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          user: TurnipGuy30
+          repo: Helloz
+          template: repository
+          plugin_lines: yes
+          plugin_languages: yes
