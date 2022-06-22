@@ -1,2 +1,2 @@
 * text=auto linguist-detectable=true
-*.txt linguist-detectable=false
+*.txt *.svg linguist-detectable=false
